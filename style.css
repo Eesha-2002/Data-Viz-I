@@ -5,6 +5,10 @@ html, body {
   canvas {
     display: block;
   }
+
+  img{
+    max-width: 100%;
+  }
   .grid{
     display: grid;
     gap: 20px;
