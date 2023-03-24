@@ -6,9 +6,12 @@ html, body {
     display: block;
   }
 
-  img{
-    width : 800px;
-    height : auto;
+  section {
+    margin-top: 100px;
+  }
+
+  img {
+    max-width: 100%;
   }
   .category {
     text-transform: uppercase;
