@@ -28,5 +28,6 @@ html, body {
 
   .flex img {
     width: 200px;
+    height : auto;
   }
   
