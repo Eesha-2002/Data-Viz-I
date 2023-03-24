@@ -10,8 +10,20 @@ html, body {
     width : 800px;
     height : auto;
   }
-  .grid{
-    display: grid;
-    gap: 20px;
+  .category {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+  }
+
+  .flex {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .flex img {
+    width: 200px;
   }
   
