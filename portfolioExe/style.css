@@ -1,0 +1,48 @@
+.card{
+    width: 27.3125rem;
+    height: 18.5rem;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.card_title{
+    width: 27.3125rem;
+    height: 18.5rem;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.card_button{
+    width: 27.3125rem;
+    height: 18.5rem;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.card_button_title{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.card_image{
+    width: 78.125rem;
+    height: 39.0625rem;
+    overflow: hidden;
+    background: #FFF;
+}
